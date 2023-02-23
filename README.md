@@ -5,12 +5,12 @@ For creating was used MAMP, and MySQL. Server: localhost:3306 »Database: reactj
 
 
 For starting backend - 
-npm i 
-node index.js
+/npm i . 
+/node index.js
 
 
 
 
 For starting frontend - 
-npm i 
-npm run start
+/npm i .
+/npm run start
